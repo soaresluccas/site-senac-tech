@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+
+body{
+	font-family: "Roboto", sans-serif;
+}
+
+.topo{
+	padding: 2rem 4%;
+}
+
+.topo p img{
+	width: 100%;
+}
+
+.sobre{
+	padding: 2rem 4%;
+}
+
+/* Formatações dos Títulos e Textos */
+.titulo{
+	text-align: center;
+	font-family: arial black;
+	color: #004587;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	font-size: 40px;
+	
+}
+.titulo2{
+	text-align: center;
+	font-family: arial;
+	color: #004587;
+	padding-top: 1px;
+	padding-bottom: 5px;
+	font-size: 30px;
+}
+.titulo3{
+	text-align: center;
+	font-family: arial;
+	color: #004587;
+	padding-top: 1px;
+	padding-bottom: 5px;
+	font-size: 20px;
+}
+.pjustify{
+	text-align: justify;
+	font-family: arial;
+	color: #004587;
+	font-size: 18px;
+	padding-bottom: 20px;
+	
+}
+.textofotos{
+	text-align: justify;
+	font-family: arial;
+	color: #004587;
+	font-size: 20px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+/* Formatação das Linhas Horizontais */
+hr{
+	background-color: #F7941D;
+	height: 2px;
+	width: 100%;
+}
+/* Formatações das Imagens */
+.senac{
+	text-align: left;
+	padding-top: 1px;
+    
+	width: 200px;
+	height: 80px;
+}
+.fecomercio{
+	text-align: center;
+	padding-top: 1px;
+	
+	width: 300px;
+	height: 80px;
+}
+.escola{
+	text-align: center;
+	border-radius: 2px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 1600px;
+	height: 300px;
+}
+.curso{
+	text-align: center;
+	border-radius: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	width: 1200px;
+	height: 350px;
+}
+.ifoto{
+	text-align: left;
+	width: 500px;
+	height: 300px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-right: 20px;
+}
+/* Formatações das Redes Sociais */
+.rsocial{
+	text-align: left;
+	padding-top: 1px;
+	width: 40px;
+	height: 40px;
+}
+/* Formatação do Desenvolvedor */
+.marca{
+	text-align: right;
+	color: #F7941D;
+	font-family: arial;
+	font-size: 15px;
+}
+
+footer{
+	padding: 50px;
+}
+
+

@@ -1,0 +1,61 @@
+
+@media screen and (max-width: 1020px) {
+    .titulo{
+        font-size: 2.125rem;
+        line-height: 2.85rem;
+    }
+
+    .topo{
+        padding: 1.25rem 8%;
+        padding-top: 0;
+        margin-top: 5rem;
+    }
+
+    .sobre{
+        padding: 1.25rem 8%;
+        padding-top: 0;
+        margin: 0;
+
+    }
+
+    .sobre iframe{
+        width: 350px;
+        height: 500px;
+    }
+
+    footer{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    
+    .header_nav, #social-none{
+        display: none;
+    }
+
+    header nav ul li{
+        display: flex;
+        padding: 0 1.25rem;
+    }
+    .menu{
+        display: block;
+        margin-top: -6rem;
+        
+    }
+
+    nav a{
+        background-color: transparent;
+    }
+
+    .senac{
+        width: 90px;
+        height: 50px;
+    }
+
+    .fecomercio{
+        height: 60px;
+        width: 100px;
+    }
+}
