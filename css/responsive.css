@@ -65,4 +65,20 @@
         font-size: 13px;
         font-weight: normal;
     }
+
+    .form{
+        padding: 1.25rem 8%;
+    }
+
+    form{
+        width: 220px;
+    }
+    
+    input{
+        width: 200px;
+    }
+
+    select{
+        width: 200px;
+    }
 }
