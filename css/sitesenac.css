@@ -40,13 +40,33 @@ body{
 	padding-bottom: 5px;
 	font-size: 30px;
 }
+
+.curso_box{
+	display: inline-flex;
+	text-decoration: none;
+	margin: 10px;
+}
+
+.curso_box:hover, #hover_t:hover{
+	color: #F7941D;
+}
+
+.container_cursos{
+	margin-top: 30px;
+	display: flex;
+	flex-direction: column;
+	border: solid 1px #9c9c9c;
+	border-radius: 10px;
+}
 .titulo3{
 	text-align: center;
 	font-family: arial;
-	color: #004587;
+	color: #000;
 	padding-top: 1px;
 	padding-bottom: 5px;
 	font-size: 20px;
+	margin: 4px;
+	transition: all .3s;
 }
 .pjustify{
 	text-align: justify;
@@ -82,8 +102,8 @@ hr{
 	text-align: center;
 	padding-top: 1px;
 	
-	width: 300px;
-	height: 80px;
+	width: 100px;
+	height: 40px;
 }
 .escola{
 	text-align: center;

@@ -51,11 +51,18 @@
 
     .senac{
         width: 90px;
-        height: 50px;
+        height: 70px;
+        margin-left: 7rem;
     }
 
     .fecomercio{
-        height: 60px;
-        width: 100px;
+        height: 30px;
+        width: 80px;
+        margin-top: 2rem;
+    }
+
+    .titulo3{
+        font-size: 13px;
+        font-weight: normal;
     }
 }
